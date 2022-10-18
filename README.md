@@ -1,1 +1,1 @@
-# Hospital-admission-Process-using-java-GUI-and-MySQL
+# Patient-admission-Process-using-java-GUI-and-MySQL
